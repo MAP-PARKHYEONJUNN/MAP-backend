@@ -1,4 +1,3 @@
-package practice;
 
 public class User {
     String name;
