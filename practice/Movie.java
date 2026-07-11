@@ -1,3 +1,4 @@
+
 public class Movie {
     // 접근 제어자 private 적용
     private String title;
@@ -11,3 +12,4 @@ public class Movie {
         this.releaseYear = releaseYear;
     }
 }
+
