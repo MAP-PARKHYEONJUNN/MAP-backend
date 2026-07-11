@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a2fb414-aee8-4f4f-a214-56ab65a175cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/Movie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +47,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "feat/Issue3",
+    "git-widget-placeholder": "feat/Issue4",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/a4546/OneDrive/바탕 화면/map/MAP-backend",
